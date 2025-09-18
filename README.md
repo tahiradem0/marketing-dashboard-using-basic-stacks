@@ -4,7 +4,7 @@
 
 Filan is a powerful, free-to-use Bootstrap 5 admin template that has been completely modernized with Vite, performance optimizations, and the latest web technologies. This template provides a comprehensive foundation for building admin panels, dashboards, and back-end applications.
 
-![Filan Bootstrap Admin Template](https://colorlib.com/wp/wp-content/uploads/sites/2/Filan-admin-template-preview.jpg "Filan Theme Browser Preview")
+![Filan Bootstrap Admin Template]('./production/images/screenshot1.png' "Filan Theme Browser Preview")
 
 ## What's New in v2.1.1 (Latest Release - September 11, 2025)
 
