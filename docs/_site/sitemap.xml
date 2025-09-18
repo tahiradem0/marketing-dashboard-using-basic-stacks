@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://puikinsh.github.io/Filan/api-integration/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/components/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/configuration/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/customization/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/deployment/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/installation/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/bundle-analysis/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/daterangepicker-fix/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/jquery-elimination-complete/</loc>
+</url>
+<url>
+<loc>https://puikinsh.github.io/Filan/security-headers/</loc>
+</url>
+</urlset>
